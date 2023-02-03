@@ -13,7 +13,7 @@ did not have to retype commands over and over.
 Variables, Scoping, Functions, and Classes! The interpreter can run any script
 found in the `scripts` folder.
 
-## Prerequisites / Dependancies
+## Prerequisites / Dependencies
 Requires a Java compiler, I used the one bundled with openJDK 17 (`java-17-openjdk`).
 May also need the Java development tools (`java-17-openjdk-devel`)
 

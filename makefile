@@ -1,12 +1,13 @@
-.PHONY: all jlox clean
+.PHONY: all clox jlox clean
 
-all: jlox clox
-
-jlox:
-	cd jlox && make all
+all: clox jlox 
 
 clox:
 	cd clox && make all
 
+jlox:
+	cd jlox && make all
+
 clean:
+	cd clox && make clean
 	cd jlox && make clean

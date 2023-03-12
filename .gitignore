@@ -5,4 +5,4 @@
 # MacOS Directory artifacts
 .DS_Store
 # Built executable
-clox
+clox/clox

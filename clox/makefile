@@ -5,7 +5,7 @@
 CC=gcc
 CFLAGS=-Wall -Iinc
 DEPS = common.h
-OBJ = memory.o chunk.o debug.o value.o object.o scanner.o compiler.o vm.o  
+OBJ = memory.o chunk.o debug.o value.o object.o table.o scanner.o compiler.o vm.o  
 
 all: clox
 

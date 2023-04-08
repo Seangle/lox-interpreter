@@ -11,4 +11,5 @@ class BostonCream < Doughnut {
     }
 }
 
-BostonCream().cook();
+var doughnut = BostonCream();
+doughnut.cook();

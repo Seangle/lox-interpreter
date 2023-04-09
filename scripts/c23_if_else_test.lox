@@ -1,0 +1,7 @@
+var a = 2;
+if (a == 2) {
+    print 3; 
+} else {
+    print 2;
+}
+print "We got to the end";

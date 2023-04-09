@@ -1,1 +1,8 @@
+# Java class builds
 *.class
+# C object files
+*.o
+# MacOS Directory artifacts
+.DS_Store
+# Built executable
+clox/clox
